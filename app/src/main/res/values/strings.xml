@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">practica2</string>
+
+    <string name="male">Man</string>
+    <string name="female">Women</string>
+    <string name="height">Height</string>
+    <string name="weitght">Weithg</string>
+    <string name="age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="recalcute">Re-calculate</string>
+    <string name="history_btn">History</string>
+    <string name="error">Error</string>
+    <string name="title_imc">imc</string>
+
+    <string name="title_low_weight">Low Weight</string>
+    <string name="description_low_weight">Estás por debajo de lo óptimo para tu peso y altura</string>
+
+    <string name="title_normal_weight">Normal Weigth</string>
+    <string name="description_normal_weight">Estás en lo óptimo para tu peso y altura</string>
+
+    <string name="title_overweight_weight">OVerweight</string>
+    <string name="description_overweight_weight">Estás por encima de lo óptimo para tu peso y altura</string>
+
+
+    <string name="title_heavy_weight">Heavy weight</string>
+    <string name="description_heavy_weight">Estás muy por encima de lo óptimo para tu peso y altura</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnRetroceso">Volver</string>
+</resources>

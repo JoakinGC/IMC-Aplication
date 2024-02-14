@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="back_component">#1D1E33</color>
+    <color name="back_componen_selectedt">#FF111328</color>
+    <color name="backgruod_app">#0E0B20</color>
+    <color name="back_button">#EB1555</color>
+    <color name="title_text">#FF8D8E98</color>
+    <color name="bc_btn">#FF6200EE</color>
+
+
+    <color name="low_weight">#FFEB3B</color>
+    <color name="normal_weight">#4CAF50</color>
+    <color name="over_weight">#FF5722</color>
+    <color name="heavy_weight">#F1001D</color>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- IMC App-->
+    <color name="back_component">#1D1E33</color>
+    <color name="back_componen_selectedt">#FF111328</color>
+    <color name="backgruod_app">#0E0B20</color>
+    <color name="back_button">#EB1555</color>
+    <color name="title_text">#FF8D8E98</color>
+    <color name="bc_btn">#FF6200EE</color>
+
+
+    <color name="low_weight">#FFEB3B</color>
+    <color name="normal_weight">#4CAF50</color>
+    <color name="over_weight">#FF5722</color>
+    <color name="heavy_weight">#F1001D</color>
+
+<!--To Do App -->
+
+    <color name="bc_card">#FF081A4A</color>
+    <color name="bc_disabled">#787878</color>
+    <color name="bc_app">#FF2D4993</color>
+    <color name="subtitle_text">#959595</color>
+    <color name="accent">#E91E63</color>
+
+
+    <color name="bussines_category">#FF9800</color>
+    <color name="personal_category">#00BCD4</color>
+    <color name="other_category">#4CAF50</color>
+
+
+</resources>
